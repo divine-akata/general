@@ -21,9 +21,9 @@ This site serves as both an overview of who I am and a diary of my journey throu
 
 💠Backend: Node.js
 
-💠Databases: MySQL
+💠Databases: MySQL, NoSQL
 
-💠Other: Git, Angular
+💠Other: Git, Angular, MongoDB
 
 ## Future Enhancements
 
